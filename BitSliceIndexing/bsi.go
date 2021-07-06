@@ -2,7 +2,7 @@ package roaring
 
 import (
 	"fmt"
-	"github.com/RoaringBitmap/roaring"
+	"github.com/pforemski/roaring"
 	"math/bits"
 	"runtime"
 	"sync"

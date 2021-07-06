@@ -5,7 +5,7 @@ import (
 	"encoding/binary"
 	"fmt"
 	"io"
-	"github.com/RoaringBitmap/roaring/internal"
+	"github.com/pforemski/roaring/internal"
 )
 
 type container interface {

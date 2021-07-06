@@ -11,7 +11,7 @@ import (
 	"strconv"
 	"testing"
 
-	"github.com/RoaringBitmap/roaring"
+	"github.com/pforemski/roaring"
 	"github.com/bits-and-blooms/bitset"
 	"github.com/stretchr/testify/assert"
 )

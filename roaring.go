@@ -12,7 +12,7 @@ import (
 	"io"
 	"strconv"
 
-	"github.com/RoaringBitmap/roaring/internal"
+	"github.com/pforemski/roaring/internal"
 )
 
 // Bitmap represents a compressed bitmap where you can add integers.

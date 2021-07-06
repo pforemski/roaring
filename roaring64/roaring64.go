@@ -8,7 +8,7 @@ import (
 	"io"
 	"strconv"
 
-	"github.com/RoaringBitmap/roaring"
+	"github.com/pforemski/roaring"
 )
 
 const serialCookieNoRunContainer = 12346 // only arrays and bitmaps
